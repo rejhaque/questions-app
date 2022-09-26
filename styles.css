@@ -215,7 +215,7 @@ main {
   margin-bottom: 0;
 }
 /* hide text */
-/* .question-text {
+.question-text {
   display: none;
 }
 .show-text .question-text {
@@ -229,4 +229,4 @@ main {
 }
 .show-text .plus-icon {
   display: none;
-} */
+}
